@@ -1,5 +1,5 @@
 {
-  "name": "runtime-chart-smooth",
+  "name": "realtime-chart-smooth",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,9 @@
     "@types/node": "^16.11.32",
     "@types/react": "^18.0.8",
     "@types/react-dom": "^18.0.3",
+    "apexcharts": "^3.35.0",
     "react": "^18.1.0",
+    "react-apexcharts": "^1.4.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.6.4",
